@@ -1,5 +1,13 @@
-## Hi there 👋
+## Привет! 👋 Меня зовут Александра.
 
+#### 🛠️ Технологии и инструменты:
+- **Языки программирования**: Python
+- **Базы данных**: MS SQL
+- **Библиотеки**: Pandas, Numpy
+
+#### 🌱 Сейчас изучаю:
+- Анализ данных с помощью Python
+  
 <!--
 **Aleksa675/Aleksa675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
